@@ -8,7 +8,7 @@ This project builds a **data mart** for a fictional transit system. Data is extr
 **Fact:** `fact_riders`  
 **Dimensions:** `dim_date`, `dim_routes`, `dim_buses`, `dim_stops`  
 
-### 2) Data Sources
+### 2) Data Sources: Self-created data for CSV files and mongoDB collection
 - **CSV (file system)**
   - `routes_catalog*.csv`: route data 
   - `stops*.csv`: stop data 
