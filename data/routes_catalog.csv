@@ -1,0 +1,3 @@
+id,route_name,origin,destination,service_type,route_length_km,notes,attachments
+R1,Kenny's Line,Downtown,Hospital,Local,12.5,none,none
+R2,Kenny's Express,Bus Line,Airport,Express,22.8,none,none

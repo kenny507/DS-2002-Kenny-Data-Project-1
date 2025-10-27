@@ -1,0 +1,4 @@
+id,stop_name,latitude,longitude,zone,notes,attachments
+S101,Downtown Shop,38.0293,-78.4767,A,none,none
+S103,Hospital,38.0312,-78.5001,A,none,none
+S205,Kenny's Airport Terminal,38.14,-78.445,B,none,none

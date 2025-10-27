@@ -1,0 +1,4 @@
+ride_dt,time_recorded,route_id,stop_id,bus_id,riders_count,fare_collected,avg_wait_time
+2025-09-01,07:30:00,R1,S101,B-12,23,47.50,6.2
+2025-09-01,08:15:00,R1,S103,B-12,31,62.00,5.1
+2025-09-01,07:45:00,R2,S205,B-07,12,24.00,7.8
